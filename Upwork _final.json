@@ -3,7 +3,7 @@
   "nodes": [
     {
       "parameters": {
-        "url": "https://api.apify.com/v2/datasets/n73dqVxaDHjLMxhxR/items?token=apify_api_iEsAjPKwVbQUv6iETeBVFZw1xb4Iuk2OkKX2",
+        "url": "https://api.apify.com/v2/datasets/n73dqVxaDHjLMxhxR/items?token=apify_apixxxxx",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpHeaderAuth",
         "sendQuery": true,
